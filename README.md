@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdul
 - 👀 I’m interested in Data Engineering. 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on Python and Java programming. 
 - 📫 How to reach me is by email: abdul.kasmo.iv@gmail.com
 
